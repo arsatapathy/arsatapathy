@@ -1,4 +1,4 @@
-## Hi there 👋, I am [Ashish!][linkedin]
+## Hi there 👋, this is [Ashish!]
 
 <br/>
 
