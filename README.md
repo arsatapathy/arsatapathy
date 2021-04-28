@@ -6,9 +6,9 @@
 <br/>
 <br/>
 
-- 👨🏻‍💻 I am a polyglot programmer with decent Java and RPGLE hands on experience
+- 👨🏻‍💻 I am a backend developer with decent Java and RPGLE hands on experience
 - 👯 Looking to collaborate with other developers and contribute towards open source projects
-- 💬 Ask me about anything [here](https://github.com/suryaprava/suryaprava/issues)
+- 💬 Ask me about anything about backend development [here](https://github.com/suryaprava/suryaprava/issues) and I will try my best to answer
 
 <br/>
 <br/>
