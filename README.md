@@ -1,7 +1,6 @@
 ## Hi there 👋, I am [Ashish!][linkedin]
 
 [<img align="left" alt="suryaprava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suryaprava | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
@@ -16,6 +15,5 @@
 ![My github stats][githubstats]
 
 [linkedin]: https://linkedin.com/in/suryaprava
-[instagram]: https://www.instagram.com/arsatapathy/
 [askme]: https://github.com/suryaprava/suryaprava/issues
 [githubstats]: https://github-readme-stats.vercel.app/api?username=suryaprava&show_icons=true
