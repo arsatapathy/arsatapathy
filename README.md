@@ -8,12 +8,7 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="suryaprava's GitHub Stats" src="https://github-readme-stats.suryaprava.vercel.app/api?username=suryaprava&show_icons=true&hide_border=true" />
-
-</details>
+![My github stats](https://github-readme-stats.vercel.app/api?username=suryaprava&show_icons=true)
 
 
 [linkedin]: https://linkedin.com/in/arsatapathy
