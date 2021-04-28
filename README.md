@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-- 👨🏻‍💻 I am a backend developer with decent Java and RPGLE hands on experience
+- 👨🏻‍💻 I am a backend developer with decent Java and RPGLE hands-on experience
 - 👯 Looking to collaborate with other developers and contribute towards open source projects
 - 💬 [Ask me][askme] anything about backend development  and I will try my best to answer
 
