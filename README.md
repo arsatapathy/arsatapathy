@@ -6,8 +6,9 @@
 <br/>
 <br/>
 
-- I am a polyglot programmer with decent Java and RPGLE hands on experience
-- Looking to collaborate with other developers and contribute towards open source projects
+- 👨🏻‍💻 I am a polyglot programmer with decent Java and RPGLE hands on experience
+- 👯 Looking to collaborate with other developers and contribute towards open source projects
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 <br/>
 <br/>
