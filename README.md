@@ -1,4 +1,4 @@
-## Hi there 👋, this is Ashish!
+## Hi there, this is Ashish!
 
 <br/>
 
