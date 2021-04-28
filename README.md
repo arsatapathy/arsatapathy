@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @suryaprava
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## 👋 Hi there, I’m Ashish Satapathy [@suryaprava]
+## I am a polyglot programmer proficient in Java and RPGLE
+- 💞️ I’m looking to collaborate with other developers and contribute to open source projects
 
-<!---
-suryaprava/suryaprava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+### Connect with me:
+[<img align="left" alt="arsatapathy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
