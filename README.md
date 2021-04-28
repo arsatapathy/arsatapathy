@@ -8,5 +8,7 @@
 
 <br />
 
+<img align="left" alt="suryaprava's GitHub Stats" src="https://github-readme-stats.suryaprava.vercel.app/api?username=suryaprava&show_icons=true&hide_border=true" />
+
 [linkedin]: https://linkedin.com/in/arsatapathy
 
