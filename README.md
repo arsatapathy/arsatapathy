@@ -1,7 +1,6 @@
 ## Hi there 👋, I am [Ashish!][linkedin]
 
 <br/>
-<br/>
 
 - 👨🏻‍💻 I am a backend developer with decent Java and RPGLE hands-on experience
 - 👯 Looking to collaborate with other developers and contribute towards open source projects
