@@ -15,7 +15,7 @@
 
 ![My github stats][githubstats]
 
-[linkedin]: https://linkedin.com/in/arsatapathy
+[linkedin]: https://linkedin.com/in/suryaprava
 [instagram]: https://www.instagram.com/arsatapathy/
 [askme]: https://github.com/suryaprava/suryaprava/issues
 [githubstats]: https://github-readme-stats.vercel.app/api?username=suryaprava&show_icons=true
