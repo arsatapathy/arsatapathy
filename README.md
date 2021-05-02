@@ -9,8 +9,8 @@
 <br/>
 
 ## Connect with me 
-[<img align="left" alt="suryaprava | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="suryaprava | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="arsatapathy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="arsatapathy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br/>
 <br/>
@@ -18,7 +18,7 @@
 
 ![My github stats][githubstats]
 
-[linkedin]: https://linkedin.com/in/suryaprava
+[linkedin]: https://linkedin.com/in/arsatapathy
 [instagram]: https://instagram.com/arsatapathy
-[askme]: https://github.com/suryaprava/suryaprava/issues
-[githubstats]: https://github-readme-stats.vercel.app/api?username=suryaprava&show_icons=true
+[askme]: https://github.com/arsatapathy/arsatapathy/issues
+[githubstats]: https://github-readme-stats.vercel.app/api?username=arsatapathy&show_icons=true
