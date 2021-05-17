@@ -26,7 +26,9 @@
 
 <br>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats ![](https://visitor-badge.glitch.me/badge?page_id=arsatapathy.arsatapathy)
+
+<br>
 
 <a href="https://github.com/arsatapathy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsatapathy&title_color=ffffff&text_color=c9cacc&icon_color=blue&bg_color=1d1f21&langs_count=3" />
