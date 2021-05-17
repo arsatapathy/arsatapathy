@@ -50,9 +50,9 @@
 <br>
 
 ## Connect with me 
-[<img align="left" alt="arsatapathy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="arsatapathy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="arsatapathy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="arsatapathy | LinkedIn" width="22px" src="https://github.com/arsatapathy/arsatapathy/tree/main/Assets/LinkedIn.svg" />][linkedin]
+[<img align="left" alt="arsatapathy | Twitter" width="22px" src="https://github.com/arsatapathy/arsatapathy/tree/main/Assets/Twitter.svg" />][twitter]
+[<img align="left" alt="arsatapathy | Instagram" width="22px" src="https://github.com/arsatapathy/arsatapathy/tree/main/Assets/Instagram.svg" />][instagram]
 
 <br/>
 <br/>
