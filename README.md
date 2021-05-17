@@ -25,7 +25,6 @@
 ![](https://img.shields.io/badge/Database-DB2-informational?style=plastic&logo=IBM&logoColor=white&color=blue)
 
 <br>
-<br>
 
 ## 📈 GitHub Stats
 
