@@ -14,15 +14,21 @@
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/FrameWork-SpringBoot-informational?style=plastic&logo=Spring&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=plastic&logo=TypeScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/MarkupLang-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=CSS3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-Oracle-informational?style=plastic&logo=oracle&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-DB2-informational?style=plastic&logo=IBM&logoColor=white&color=blue)
+
+[comment]: <> (![]&#40;https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=blue&#41;)
+
+[comment]: <> (![]&#40;https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue&#41;)
+
+[comment]: <> (![]&#40;https://img.shields.io/badge/Code-TypeScript-informational?style=plastic&logo=TypeScript&logoColor=white&color=blue&#41;)
+
+[comment]: <> (![]&#40;https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=blue&#41;)
+
+[comment]: <> (![]&#40;https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=blue&#41;)
+
+[comment]: <> (![]&#40;https://img.shields.io/badge/Database-Oracle-informational?style=plastic&logo=oracle&logoColor=white&color=blue&#41;)
 
 <br>
 
@@ -41,10 +47,33 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-jpa-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/arsatapathy/spring-security-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-security-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>  
+
+<a href="https://github.com/arsatapathy/spring-boot-unit-test-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-unit-test-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/arsatapathy/spring-boot-rest-client-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-rest-client-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+<a href="https://github.com/arsatapathy/spring-boot-jdbc-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-jdbc-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/arsatapathy/spring-boot-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/arsatapathy/data-structure-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=data-structure-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/arsatapathy/data-structure-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=data-structure-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <br>
 <br>
