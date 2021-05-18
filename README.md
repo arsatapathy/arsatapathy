@@ -9,26 +9,9 @@
 <br/>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/FrameWork-SpringBoot-informational?style=plastic&logo=Spring&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Java-informational?style=plastic&logo=Java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/MarkupLang-HTML5-informational?style=plastic&logo=html5&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=CSS3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Database-DB2-informational?style=plastic&logo=IBM&logoColor=white&color=blue)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=python&logoColor=white&color=blue&#41;)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue&#41;)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/Code-TypeScript-informational?style=plastic&logo=TypeScript&logoColor=white&color=blue&#41;)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/Tools-Docker-informational?style=plastic&logo=docker&logoColor=white&color=blue&#41;)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/Tools-Kubernetes-informational?style=plastic&logo=kubernetes&logoColor=white&color=blue&#41;)
-
-[comment]: <> (![]&#40;https://img.shields.io/badge/Database-Oracle-informational?style=plastic&logo=oracle&logoColor=white&color=blue&#41;)
+![](https://img.shields.io/badge/FrameWork-SpringBoot-informational?style=plastic&logo=Spring&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=intellij-idea&logoColor=white&color=blue)
 
 <br>
 
