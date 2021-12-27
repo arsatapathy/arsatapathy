@@ -53,8 +53,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=data-structure-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/arsatapathy/jdbc-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=jdbc-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/arsatapathy/algorithms-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=algorithms-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <br>
