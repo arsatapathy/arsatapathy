@@ -41,8 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-rest-client-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-<a href="https://github.com/arsatapathy/spring-boot-jdbc-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-jdbc-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/arsatapathy/leetcode-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=leetcode-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <a href="https://github.com/arsatapathy/spring-boot-demo">
