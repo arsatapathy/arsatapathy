@@ -2,7 +2,7 @@
 
 <br/>
 
-- I am a curious software engineer 👨🏻‍💻 with decent Java and RPGLE hands-on experience
+- I am a curious software engineer 👨🏻‍💻 with decent Java and RPG hands-on experience
 - [Ask me][askme] 💬 anything about backend/enterprise application development, and I will try my best to answer
 
 <br/>
