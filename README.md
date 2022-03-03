@@ -41,6 +41,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=algorithms-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/arsatapathy/gfg-algo-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=gfg-algo-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/arsatapathy/recursion-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=recursion-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <a href="https://github.com/arsatapathy/spring-boot-jpa-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-jpa-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
