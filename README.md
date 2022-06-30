@@ -2,8 +2,17 @@
 
 <br/>
 
-- I am a curious software engineer 👨🏻‍💻 with decent Java and RPG hands-on experience
-- [Ask me][askme] 💬 anything about backend/enterprise application development, and I will try my best to answer
+I am a curious software engineer, a problem solver and a team player with decent experience on Java and microservices architecture design.
+
+Currently, I am working with Goldman Sachs’ Core Engineering division to build managed service platforms that improves engineering efficiency and experience.
+
+Prior to this I spent close to 4 years designing, building and maintaining systems for Goldman Sachs’ Global Markets division responsible for it’s role as Futures Clearing Broker.
+
+I also have experience working with FIS one of the market leaders of financial managed service provider with products like FIS CD, Clearvision, GMI, IntelliMatch etc.
+
+I have started my career with Infosys.
+
+A BTech degree holder from BPUT, Odisha 2014 batch.
 
 <br/>
 
