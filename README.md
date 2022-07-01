@@ -74,6 +74,14 @@ A BTech degree holder from BPUT, Odisha 2014 batch.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-rest-client-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/arsatapathy/simple-java-docker-demo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=simple-java-docker-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/arsatapathy/spring-boot-docker-demo">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-docker-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <br>
 <br>
 
