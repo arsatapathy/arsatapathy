@@ -2,7 +2,7 @@
 
 <br/>
 
-I am a curious software engineer, a problem solver and a team player with decent experience on Java and microservices architecture design.
+I am a curious software engineer, a problem solver and a team player with experience on Java and microservices architecture design.
 
 Currently, I am working with Goldman Sachs’ Core Engineering division to build managed service platforms that improves engineering efficiency and experience.
 
