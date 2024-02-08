@@ -34,30 +34,6 @@ A BTech degree holder from BPUT, Odisha 2014 batch.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arsatapathy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=blue&bg_color=1d1f21" alt="Ashish's GitHub Stats" />
 </a>
 
-<a href="https://github.com/arsatapathy/leetcode-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=leetcode-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/arsatapathy/data-structures-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=data-structures-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/arsatapathy/dynamic-programing-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=dynamic-programing-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/arsatapathy/algorithms-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=algorithms-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/arsatapathy/gfg-algo-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=gfg-algo-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/arsatapathy/recursion-demo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=recursion-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 <a href="https://github.com/arsatapathy/spring-boot-jpa-demo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arsatapathy&repo=spring-boot-jpa-demo&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
